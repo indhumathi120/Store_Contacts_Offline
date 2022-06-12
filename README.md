@@ -1,4 +1,4 @@
-# Contact_details
+# Store Contact Offline
 Store your contacts in offline file and access them whenever you like.
 
 Step 1: Make ensure python is installed in your system or go to www.python.org and download the latest version of python.
